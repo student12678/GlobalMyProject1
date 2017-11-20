@@ -1,4 +1,4 @@
-//τΰιλ program.cpp
+//Ρ„Π°ΠΉΠ» program.cpp
 #include "stdafx.h"
 #include <iostream>
 #include "funcs.h"
@@ -14,3 +14,4 @@ int main()
 	system("pause");
 	return 0;
 }
+
